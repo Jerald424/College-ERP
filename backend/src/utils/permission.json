@@ -1,0 +1,9 @@
+{
+  "model_permissions": [
+    { "model": "academic_year", "label": "Academic Year" },
+    { "model": "district", "label": "District" },
+    { "model": "state", "label": "State" },
+    { "model": "role", "label": "Role" },
+    { "model": "user", "label": "User" }
+  ]
+}
